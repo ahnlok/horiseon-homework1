@@ -11,8 +11,8 @@
 ##Credits:
 ####Sungpil An <ansungpil1@gmail.com>
 ####URLs:
-######GitPage: https://ahnlok.github.io/horiseon-code-refactor/
-######GitHub Repository: https://github.com/ahnlok/horiseon-code-refactor
+######GitPage: https://ahnlok.github.io/horiseon-homework1/
+######GitHub Repository: https://github.com/ahnlok/horiseon-homework1
 ---
 ---
 ##License:
