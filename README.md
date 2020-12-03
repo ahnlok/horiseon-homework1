@@ -2,7 +2,7 @@
 ---
 
 ### Description:
-#####This is HTML and CSS for *Horiseon Social Solution Services, inc*.
+##### This is HTML and CSS for *Horiseon Social Solution Services, inc*.
 ---
 
 ### Lists of Horizon Features:
