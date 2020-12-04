@@ -4,8 +4,8 @@
 ### Description:
 ##### This is the website for *Horiseon Social Solution Services, inc* using HTML/CSS.
 ---
-
 ### Lists of Horizon Features:
+![horiseonsiteimage](./assets/images/horiseonmain.jpg)
 1. Search Engine Optimization
 2. Online Reputation Management
 3. Social Media Marketing
